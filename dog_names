@@ -1,0 +1,2 @@
+dogs_names = ["Blaze", "Belle", "willow", "Crockit"]
+puts dogs_names

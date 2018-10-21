@@ -1,0 +1,2 @@
+People_that_sit_wMe = ["Merry", "Shreya","Helena"]
+puts People_that_sit_wMe
